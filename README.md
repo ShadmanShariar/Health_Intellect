@@ -7,4 +7,4 @@ The primary aim of this project is to develop an advanced and accurate system th
 
 # ER_Diagram_Of_My_SQL_DataBase
 
-![384499481_1541954616576230_7395804005563102997_n](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/0400231d-0992-47ec-a2dd-d3008c736574)
+![384495746_312451711396087_6151076983364601680_n](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/bff9e640-61b5-4b33-a3d8-a3e5a328ebbd)
