@@ -14,6 +14,7 @@ The primary aim of this project is to develop an advanced and accurate system th
 ![Screenshot (26)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/5ba575c2-49e0-4ed5-94b1-e6c2daa69ad6)
 ![Screenshot (27)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/bbdf35b6-83a4-4e3b-9f7b-6a9388029a6b)
 ![Screenshot (28)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/c1031617-815e-45e0-8195-9de2b738b856)
+![Screenshot (1932)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/4e0f91f2-6ff6-46dc-978c-716f1036564c)
 ![Screenshot (29)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/8c4edc01-6ea1-4bc6-8001-622f6fc02a38)
 ![Screenshot (30)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/7bcf12f7-6fd8-4871-88d0-026d2a824bb6)
 ![Screenshot (31)](https://github.com/ShadmanShariar/Health_Intellect/assets/75669228/28c384ed-8f4b-41c5-a92e-8dedefdbc3f2)
